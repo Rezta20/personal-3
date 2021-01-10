@@ -1,11 +1,12 @@
-# personal-3
-Rwd 建立 1024px-768px
-max 768px
-刪減多餘的css
+# :relaxed: Personal CV 
+Personal CV is designed and made within 3 days to apply the project.
 
-min-320px- max414px
-尚無法更改排版
-整組打掉重排 也動不了
-原先的 wed code /* // 
-才能稍微排版
-但依然無法移動block or flex wrap 的狀態
+![截圖 2021-01-10 下午9 04 26](https://user-images.githubusercontent.com/63142258/104123674-93c84c80-5387-11eb-8189-9627d12dda64.png)
+![截圖 2021-01-06 下午4 40 28](https://user-images.githubusercontent.com/63142258/104123702-b490a200-5387-11eb-89e3-60075ffadf43.png)
+
+##  :bulb: Demo
+[Go to see Personal CV](https://rezta20.github.io/personal-3/ "Personal CV")  :eyes: 
+
+  
+## :bulb: Contact
+Email: mariafu0801@gmail.com
